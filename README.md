@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm María</h1>
+<h1 align="center">Hi 👋, I'm María!</h1>
 <h3 align="center">A passionate Computer Engineer from Spain!</h3>
 
 - 👨‍💻 All of my projects are available at [https://imariagg.github.io/github-portfolio/](https://imariagg.github.io/github-portfolio/)
